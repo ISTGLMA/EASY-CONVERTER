@@ -20,4 +20,4 @@ No, you don't have to use **EASY-CONVERTER** by any means. It's just an alternat
 If you want to be left alone when converting files, **EASY-CONVERTER** is that alternative.
 
 # Credits
-This tool wouldn't of been possible without **FFMPEG** by **Fabrice Bellard**. It relies on it as a backend and does the heavy lifting for you. If you'd like to use **FFMPEG** as it is, you can download it [here](https://www.ffmpeg.org/download.html).
+This tool wouldn't of been possible without **FFMPEG** by **Fabrice Bellard**. It relies on it as a backend and **EASY-CONVERTER** does the heavy lifting for you. If you'd like to use **FFMPEG** as it is, you can download it [here](https://www.ffmpeg.org/download.html).
